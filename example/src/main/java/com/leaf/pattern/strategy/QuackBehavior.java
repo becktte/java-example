@@ -1,4 +1,4 @@
-package com.leaf.pattern;
+package com.leaf.pattern.strategy;
 
 public interface QuackBehavior {
     void quack();
